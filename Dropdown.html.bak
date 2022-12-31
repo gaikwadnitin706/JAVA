@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  
+  <title>Dropdown</title>
+ </head>
+ <body align="center" >
+ <h1>DropDown</h1>
+  <select type="dropdown" width=300 style="width: 350px"
+            size="8" multiple> 
+  <option value="java">JAVA</option>
+  <option value="sql">SQL</option>
+  <option value="webtech">WEBTECH</option>
+  <option value="manual">MANUAL</option>
+  <option value="selenium">SELENIUM</option>
+  <option></option>
+  </select>
+
+ </body>
+</html>
