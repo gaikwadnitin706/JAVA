@@ -12,7 +12,7 @@
   <option value="sql">SQL</option>
   <option value="webtech">WEBTECH</option>
   <option value="manual">MANUAL</option>
-  <option value="selenium1">SELENIUM</option>
+  <option value="selenium">SELENIUM</option>
   <option></option>
   </select>
 
